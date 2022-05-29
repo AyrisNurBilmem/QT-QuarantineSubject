@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: primaryColor,
         scaffoldBackgroundColor: backgroundColor,
-        fontFamily: 'Montserrat',
       ),
       home: WelcomeScreen(),
     );
